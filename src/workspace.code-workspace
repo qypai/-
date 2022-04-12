@@ -1,0 +1,25 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\..\\前端"
+		},
+		{
+			"path": "..\\..\\..\\学成网"
+		},
+		{
+			"path": "..\\..\\..\\shopping"
+		},
+		{
+			"path": "..\\..\\..\\day6"
+		},
+		{
+			"path": "..\\..\\..\\02.jwt案例"
+		},
+		{
+			"path": ".."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "前端"
+    }
+}
